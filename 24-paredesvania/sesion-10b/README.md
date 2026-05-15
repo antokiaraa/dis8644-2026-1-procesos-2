@@ -38,3 +38,7 @@ Conectar sin cableado en el esquemático
 * Para activarlo ocupamos la "L" de Label.
 
 La podemos usar para evitar el error de pin no conectado a la salida, debemos conectar desde la bateria la etiqueta "PWG_FLAG".
+
+### Cambiar de cara los componentes
+
+Selecciono el componente y apreto "F"
