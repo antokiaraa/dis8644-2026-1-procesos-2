@@ -51,7 +51,7 @@ KiCad es un software gratuito y de fuente abierta para diseño y fabricación de
 
 
 ---
-
+![imagenes](./imagenes/miprimerkicad.jpeg)
 ## recursos y referencias
 
 - **wintwe bloom**: empresa que cerró, hacían sintes con kicad y eran muy estéticos. aprendieron a programar con google. útil para ver cómo cambiar los temas dentro de kicad.
