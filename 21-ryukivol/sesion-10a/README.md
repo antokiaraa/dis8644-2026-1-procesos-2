@@ -2,7 +2,7 @@
 # contenidos clase
 - libro Vilém Flusser Towards a Philosophy of Photography 
 - Charla  for want of ( not ) measuring
-
+- gen tiktok , misa 
   ## Data
   - https://www.greenwichunigalleries.co.uk/for-want-of-not-measuring/
   - Flexidisc
@@ -27,3 +27,12 @@
   - sistemas que parecen estables pero al verlos con profundidad no son como lo parecen, cuando era pequeño media luces ?
   - nace la idea de la grilla como una referencia símbolica donde entran muchas cosas pero a la vez es algo inseguro, inestable
   - les motiva compartir su trabajo con mas personas, estableciendo un dialogo con otros artistas en diversos lugares, conun total de 7 proyectos y en algunos han realizado performances, para ellos cada expo es una nueva version del proyecto y se rlaciona con el lugar donde se realiza, contratan escritores, artistas y curadores, creando publicaciones para cada una de ellas  
+
+
+## Caja negra 
+- 4093, varía con una resistencia ( potenciometro ) su frecuencia
+- 4046, se cambia su frecuancia segun un voltaje, no con una resistencia osea hay que variar el voltaje
+- VCO oscilador controlado por voltaje 
+- voltaje variable, se puede variar con un potenciometro 1 vcc, 2 voltaje 3 gnd
+
+- cadena: clock , divisor de voltaje ( potenciometro ), VCO, frecuencia, parlante 
