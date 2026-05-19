@@ -15,7 +15,7 @@ Flusser diferencia dos formas de pensamiento:
 
 Me deja pensando esto, porque hoy estamos rodeados de imágenes y tecnologías que influyen mucho en cómo mostramos nuestra vida y en cómo vemos la realidad. Pero igual me surge una duda, porque la fotografía para mí es importante y tiene un valor más personal, ya que me ayuda a guardar recuerdos y a mantener parte de mi historia. Siento que ahí la imagen no reemplaza la realidad, sino que la acompaña. Aunque ahora, con las redes sociales, a veces esas imágenes también se usan más para mostrar o “publicar” la vida que para recordarla realmente y me hace preguntarme si la fotografía realmente captura el momento tal como es, o si termina mostrando más lo que queremos aparentar. 
 
-### Encargo esquemáticos y PCB en KiCad
+## Encargo esquemáticos y PCB en KiCad
 
 **1. Construcción del esquemático**
    
