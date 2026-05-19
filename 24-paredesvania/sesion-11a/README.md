@@ -25,3 +25,8 @@ It creates "clouds", he wasn't interested in measures but in clouds and trees. F
 
 #### App!!!!
 * Polycam / kirk
+
+> *"Si no puedes con ellos, Confúndelos"* - Matias Serrano (2026)
+
+> *"Cada mentira que decimos es una deuda con la verdad"* - Valery Legásov
+
