@@ -2,15 +2,52 @@
 
 ## KiCad pt3: El regreso ##
 
-Se inicio con una revisión de dudas generales, donde el tópico fue 
+Se inicio con una revisión de dudas generales, donde lo que más rescato es la nomenclatura de los chips o tambien llamados IC
+
+![Descarga](./imagenes/ic.webp)
+
+> Nosotros estamos trabajando con los tipo DIP
+
+<br>
+
+Otro punto fue la distinción de los botones, donde tenemos _push botton_ y _switch_
+
+- Push botton: Existen los NO (Normally Open) y NC (Normally Close), estos se diferencian en cual es el estado que se mantiene como base (sin presionar)
+
+> Los NO son los más comunes, que la energía solo fluye al presionar. En cambio los NC al presionar se detiene el flujo de electrones
+
+![Switch](./imagenes/buttons.jpg)
+
+<br>
+
+- Switch:  A diferencia de los botones, estos recuerdan el estado en el que se los deja, existen diversas configuraciones
+
+![Switch](./imagenes/switch.png)
+
+> S: Single / Único
+>
+> D: Double / Doble
+>
+> P: Pole / Polo
+>
+> T: Throw / Tiro 
+
+![Switch](./imagenes/switch.webp)
+
+> Tanto PushBotton como Switchs SPST se pueden representar con el mismo símbolo
+
+<br>
+
+### Edición de huellas, símbolos y modelos 3D ###
+
+#### Huellas ####
+
+
+
 
 ### Investigación Secunciador ###
 
----
 
-[Ideas al aire, despues desarrollar]
-
----
 
 - Considerar que el 4017 utilizado es un **CONTADOR**, buscar funcionamiento detrás de esta cuenta, para saber que chips tienen funciones similar o algo que nos pueda servir
 
