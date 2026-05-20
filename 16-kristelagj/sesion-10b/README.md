@@ -1,5 +1,5 @@
 # sesion-10b
-## Clase 190526
+## Clase 150526
 
 ### pre-clase (teloneo Aaron)
 
