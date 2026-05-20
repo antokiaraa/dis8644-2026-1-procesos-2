@@ -20,14 +20,23 @@ https://github.com/misaaaaaa/multiples-musicas
 
 En esta clase resolvimos dudas sobre kicad que se nos había solicitado la clase anterior.
 
-- A → Herramienta agregar símbolo.
+- A → Herramienta agregar símbolo
 - ESC → Herramienta selección
 - M → Mover componentes
-- G → Mover // con todo el entramado.
+- G → Mover // con todo el entramado
 - V → Asignar valor
 - CMD + S / CTRL + S → Guardar
 - E → Editar.
 - F → Footprint.
+- Ctrl + D → duplicar.
+- R → rotar
+- X → reflejo en eje X
+- Y → reflejo en eje Y
+- Alt + 3 → visor 3D
+- F8 → actualizar espaciado en plano
+- Botón verde → controlar planos
+
+
 
 —•— → Sí hay conexión
 
@@ -42,6 +51,24 @@ En esta clase resolvimos dudas sobre kicad que se nos había solicitado la clase
 F → Footprint.
 
 Leds 5mm → típico 
+
+Asignar a uno el footprint y después duplicar para no hacerlo todos uno tras uno.
+
+Origen de 50 x 50. ← eje
+
+Contorno es la placa.
+
+Pistas → cables output (recorrido de neto)
+
+terminal block.
+
+✱ líneas aéreas → verificar orientación que está conectado a qué.
+
+X → ruta.
+
+Pista intermedia entre componentes.
+
+Perno M3.
 
 ### imagenes de proceso
 
