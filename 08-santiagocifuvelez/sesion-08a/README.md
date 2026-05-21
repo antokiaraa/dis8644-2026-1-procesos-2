@@ -63,3 +63,17 @@ Y se nos abrirá este panel:
 
 Luego le hundimos este botón para traer nuestro esquemático a la placa o actualizarlo:
 ![img9](https://github.com/santiagocifuvelez/dis8644-2026-1-procesos-2/blob/main/08-santiagocifuvelez/sesion-08a/imagenes/img9.png)
+
+Nos aseguramos que no hayan errores y las configuraciones estén así (O solo “F8”):
+![img10](https://github.com/santiagocifuvelez/dis8644-2026-1-procesos-2/blob/main/08-santiagocifuvelez/sesion-08a/imagenes/img10.png)
+
+![img11](https://github.com/santiagocifuvelez/dis8644-2026-1-procesos-2/blob/main/08-santiagocifuvelez/sesion-08a/imagenes/img11.png)
+
+8:	Luego de tener nuestra placa importada, si queremos realizar algún tipo de base o superficie que sostenga los componentes, siempre se debe hacer en la capa de “edge.cuts”.  
+![img12](https://github.com/santiagocifuvelez/dis8644-2026-1-procesos-2/blob/main/08-santiagocifuvelez/sesion-08a/imagenes/img12.png)
+
+9.	Y así se previsualizaría:
+![img13](![img12](https://github.com/santiagocifuvelez/dis8644-2026-1-procesos-2/blob/main/08-santiagocifuvelez/sesion-08a/imagenes/img12.png)
+)
+
+Fin.
