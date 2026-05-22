@@ -43,7 +43,7 @@ Preguntas orientadoras: ¿Qué inputs recibe? ¿Qué outputs entrega? ¿Cómo ad
 
 ### Documentación audiovisual funcionamiento protoboard 1
 
-Incluir enlace a video en youtube (puede estar en Oculto) con protoboard funcionando
+Incluir enlace a video en youtube (puede estar en Oculto) con protoboard funcionando 
 
 ## Circuito 2
 
@@ -75,9 +75,9 @@ Preguntas orientadoras: ¿Qué inputs recibe? ¿Qué outputs entrega? ¿Cómo ad
 
 ### Documentación audiovisual funcionamiento protoboard 2
 
-Incluir enlace a video en youtube (puede estar en Oculto) con protoboard funcionando
+Incluir enlace a video en youtube (puede estar en Oculto) con protoboard funcionando 
 
-## Otros circuitos
+## Otros circuitos 
 
 ¿Usaron otro circuito temporal para activar algunas cosas? ¿para probar inputs-outputs? Detallar cuales
 
@@ -89,6 +89,6 @@ Lorem ipsum
 
 ### ¿Cómo me ayudó otro grupo?
 
-lorem ipsum
+Ipsul lorem
 
 ## Bibliografía
