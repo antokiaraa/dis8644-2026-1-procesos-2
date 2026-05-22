@@ -21,3 +21,7 @@ El reset (11) lo conectamos al pin 3 (paso 5)
 En el caso de que se hubieran conectado los 12 pasos, el reset se conectaría directamente a ground.
 
 ![imagen](./imagenes/4040-pinout-diagrama.png)
+
+Para poder visualizar mejor creé un esquemático en KiCad a la rápida del clock + secuenciador:
+
+![imagen](./imagenes/esquematico-primera-prueba-4040.png)
