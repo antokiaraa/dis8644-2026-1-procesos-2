@@ -14,7 +14,7 @@ Luego de perderme y marearme por el formato de la charla (inglés y español a r
 
 Este utilizaba un scanner de arquitectura / ingeneria civil con el cual mapeaba un arbol, esto se lograba mediante la recolección de 8 millones de puntos que medía el scanner (mediante un láser rotatorio en el eje X e Y). Acá lo llamativo es entender como se construye una fotografía tridimensional (modelo 3D) mediante la captura de 8 millones de momentos diferentes, esto si relacionamos cada punto como un instante en un espacio y momento específico
 
-![Scanner](./imagenes/scaner.jpeg)
+![Scanner](./imagenes/scaner.jpg)
 
 <br>
 
@@ -50,6 +50,18 @@ Adjunto 2 vídeos que me llamaron la atención:
 
   > Mi grupo no está tan convencido de utilizar esta opción, pero investigaré en otro momento el como funciona, ya que quiero entender como la base de la electrónico funciona (espero que sea asi xd)
   
+
+### Trabajo en casa ###
+
+Tal como mencioné antes, Misa nos compartió un 4040, que es un contador binario para utilizar como secuenciador. Quise investigar más sobre el y encontré mucha similitud con el _CD4017_, por lo sencillo en sus conexiones
+
+![4040](./imagenes/4040.gif)
+
+<br>
+
+En base a la imagen y videos de youtube como el de más arriba llegue a este esquematico para probar en clases el viernes 
+
+![4040](./imagenes/sc38.png)
 
 ## Texto ##
 
