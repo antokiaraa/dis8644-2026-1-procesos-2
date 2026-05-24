@@ -1,5 +1,4 @@
 # sesion-09a
-# sesion-10a
 ## Clase 120526
 
 ### pre-clase (teloneo mixto)
