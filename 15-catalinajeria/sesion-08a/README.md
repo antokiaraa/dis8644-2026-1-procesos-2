@@ -35,10 +35,17 @@ Cuando abrimos la biblioteca usando "A" podemos ver una biblioteca con todos los
 | Bateria | 🔋 |   Para buscar tenemos que ir a battery_cell: celda de bateria y encontraremos un repertorio  |
 | Chips | 🐿️ |   Debe ponerse los numeros del chip a buscar y aparecera con diferentes letras, asi que hay que buscar el que se necesita   |
 
+## Huella📚
+Hacer 1 click sobre el componente y posteriormente apretar "E", el cual es un atao para que se abra un panel donde encontraremos donde editar la huella, como se ve en la imajen de abajo.
+Luego iremos donde dice "huella" y apretaremos el simbolo en la casilla que dice valor y aparecera un simbolo asi -> /||
 ![Huella 1](./imagenes/huella01.jpeg)
 
+Luego se abrira un repertorio con varios componentes y sus medidas, debemos asegurar que si hicimos click en un Capacitor, debemos buscar los componentes del capacitor y asegurar que las medidas sean las mismas que la de nuestros componentes.
+Para saber medidas de los componentes podemos ir a: www.victonics.cl
 ![Huella 2](./imagenes/huella02.jpeg)
 
+Cuando encontremos el componente que necesitamos y con las medidas correctas, le daremos click al componente encontrado en la biblioteca, y luego haremos click en aceptar o apretaremos la tecla enter.
 ![Huella 3](./imagenes/huella03.jpeg)
 
+Y listo! Ahora debes hacer estos pasos con todos los componentes de tu esquema antes de seguir avanzando.
 ![Huella 4](./imagenes/huella04.jpeg)
