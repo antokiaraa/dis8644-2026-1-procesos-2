@@ -1,5 +1,4 @@
 # sesion-10b
-# Apuntes – Sesión 10B
 
 ## Referencias
 - Tega Brain  
