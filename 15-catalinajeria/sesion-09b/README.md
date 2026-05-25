@@ -1,5 +1,6 @@
 # Clase 09b — Hacia una filosofía de la fotografía
 
+clase09a_imagen01.png
 ## Capítulo 2: La imagen técnica
 
 En el segundo capítulo, Vilém Flusser explica que la imagen técnica es aquella producida por un aparato, como ocurre con la fotografía, el cine o la televisión. A diferencia de las imágenes tradicionales, que son creadas directamente por la mano humana, las imágenes técnicas surgen a partir de aparatos construidos sobre conocimientos científicos.
