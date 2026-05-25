@@ -214,14 +214,18 @@ También me pasó que no había dejado espacio para los agujeros, así que tuve 
 ![foto](./imagenes/tress.png)
 
 4. Definir pistas
-   
-![foto](./imagenes/cuatroo.png)
+
+![foto](./imagenes/pistas.png)
 
 5. Distribuir componentes
 
-![foto](./imagenes/cincoo.png)
+![foto](./imagenes/cuatroo.png)
 
 6. Rutear conexiones
+
+![foto](./imagenes/cincoo.png)
+
+GND 
 
 ![foto](./imagenes/seiss.png) 
  
@@ -229,6 +233,6 @@ También me pasó que no había dejado espacio para los agujeros, así que tuve 
 
 ![foto](./imagenes/sietee.png)  
 
-Acá quería intentar que todos los componentes se vieran en 3D. No entendí por qué no se ponen todos automáticamente. Intenté colocarlos, pero me salían cosas nada que ver. No sé si eran los correctos y, según yo, no, porque no se veían como los componentes que buscaba (,,•᷄‎ࡇ•᷅ ,,)? tampoco investigué mucho más a fondo ¯\_ (ᵕ—ᴗ—)_/¯
+Acá quería intentar que todos los componentes se vieran en 3D, no entendí por qué no se ponen todos automáticamente. Intenté colocarlos, pero me salían cosas nada que ver, no sé si eran los correctos y, según yo, no, porque no se veían como los componentes que buscabaAAAAAaaaaaaaaa(,,•᷄‎ࡇ•᷅ ,,)? tampoco investigué mucho más a fondo ¯\_(ツ)_/¯
 
 ![foto](./imagenes/idk.png)  
