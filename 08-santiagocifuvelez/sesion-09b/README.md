@@ -52,6 +52,7 @@ También estoy haciendo este “tejido” por el back de la tarjeta, para poder 
 ![img8](./imagenes/img8.png)
 
 Y bueno, allí voy jijiji.
+También, creo voy a mover algunos componentes hacia atrás, para tener un poco más de orden.
 
 **Capítulo 2: La imagen técnica.**  
 Este capítulo es una reflexión sobre la función de la imagen en nuestra vida cotidiana, y la relación que tenemos con esta. Veamos que más dice…
