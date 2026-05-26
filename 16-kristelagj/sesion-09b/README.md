@@ -47,3 +47,5 @@ Gracias a esta reflexión pasamos a lo más importante que plantea Flusser en el
 
 Al leer este capitulo me acordaba siempre a como mi mamá siempre alega de que mucha gente en redes siempre sube fotos “pasándola bien” y despues tu les preguntas cómo la pasaron y dicen siempre que mal, que no les gusto y que preferían no haber ido, entonces ¿por qué deseas plasmar ante esta caja negra tu momento? es por esto que no debemos creer en lo que sube la gente, uno siempre piensa que comparte lo que nos gusta y nos hace feliz, pero en verdad no es así, es solo por aparentar. 
 
+Capitulo 3: los aparatos
+
