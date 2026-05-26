@@ -44,4 +44,13 @@ Los comparadores de fase permiten sincronizar con una señal externa si se quier
 
 Para usarlo como oscilador independiente, basta con configurar el VCO con los componentes externos adecuados.
 
-Cap 6 y 7 
+## Cap 6 y 7 
+Flusser explica que la fotografía no se queda en el momento de ser tomada: su verdadero poder aparece cuando se distribuye.
+Cuando pienso en cómo circulan mis fotos. Apenas las subo a Instagram o las comparto por alguna red social, entran en un sistema enorme de distribución. Flusser dice que la fotografía no es solo un acto individual, sino parte de una cultura tecnográfica donde las imágenes se producen y se difunden masivamente.
+
+Cuando publico una foto en redes, ya no es solo mía: se convierte en parte de un flujo colectivo que moldea tendencias, gustos y hasta la forma en que otros me perciben. La distribución hace que las fotos tengan un poder social, porque no solo muestran algo, también crean un universo compartido.
+
+Cuando después veo las reacciones a mis fotos, noto lo que Flusser explica: el sentido de una imagen no está solo en lo que yo quise mostrar, sino también en cómo la interpreta quien la recibe. Una misma foto puede ser vista como alegre por alguien y como nostálgica por otro o otra visión. La recepción depende del contexto cultural y emocional de cada persona . la fotografía no es un espejo, es un lenguaje abierto que se completa en la mirada del otro.
+
+
+
