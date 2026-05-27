@@ -67,6 +67,22 @@ El NE555P en modo astable funciona como un oscilador, genera una señal cuadrada
 
 El LM386 es un amplificador de audio de bajo consumo, toma una señal de audio pequeña (como la que sale del Atari Punk Console) y la amplifica lo suficiente para mover un parlante. El potenciómetro de 180k controla el volumen y los capacitores filtran el ruido de la señal.
 
+### Proceso
+
+<p align="center">
+  <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/8a3a4871-196e-4b65-8d05-4855c74f2d48" />
+  <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/41164cc3-ebac-4f04-82f2-679eee001abd" />
+  <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/37a75654-d2f9-44db-a8fa-da1d0b59d39b" />
+  <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/16545122-2515-45a4-8ea9-848a51ce0e2c" />
+  <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/225e4edf-333a-4767-ac24-e3044c22b46a" />
+  <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/a1ae90d5-f1d9-4bbf-b058-96be0dc88d79" />
+  <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/6412c098-2f5d-4485-9bca-6d69fae8f5f8" />
+  <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/990f3361-3c09-4419-9c07-3a54025c8e06" />
+  <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/cc05e8a7-bbe2-4acb-bd14-2408948c1c6c" />
+  <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/f39c90fa-81f6-4ab2-a64a-6e8d373e458d" />
+  <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/80b30ac9-9b0c-49de-99e4-7421318ebcf4" />
+  <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/9762a5e4-337b-4385-9c49-120055b451cb" />
+</p>
 
 ---
 
