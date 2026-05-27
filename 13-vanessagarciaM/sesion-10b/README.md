@@ -1,71 +1,65 @@
 # sesion-10b
 
-Componente (R) / Valor (10k) / Huella (6.7 mm) 
+No pude asistir, tuve que viajar por una situación personal:(
 
-## Clase de revisión de dudas 
+Apuntes que me compartió mi compañero Ariel 
 
-Dato: Misa subió un glosario de KiCad :) 
++ La cámara se retro alimenta con lo que hace.
 
-1. Duda sobre huellas 
+Objeto eléctrico / electrónico 
 
-+ F: editar campo de huella 
-+ Confusión entre SMD y THT 
-+ Tipo de encapsulado: Dual In-line Package (THT), solo Package (SMD)
++ Eléctrico: Funcionan en lo mínimo ( que se prendan) 
++ Electrónico: Información 
 
-Usar: DIP 7.62 de ancho; es el más común (LongPads). 
+El gusto no se puede hablar, los criterios que hay detrás si.
 
-2. Cómo cambiar la posición de las patitas del chip
+Fenomenología 
 
-Importante: no editar las cosas originales de KiCad. 
++ Describir como aparecen los fenómenos.
++ La fenomenología es un movimiento filosófico y método de investigación fundado por Edmund Husserl a principios del siglo XX. Su objetivo principal es estudiar los fenómenos tal como se experimentan en la conciencia, dejando de lado teorías previas o prejuicios para enfocarse en la experiencia subjetiva.
++ Se queda corto para describir algunas cosas.
 
-Para eso, hacer un fork. 
+Postfenomenología 
 
-**Ejemplo:**
++ La postfenomenología es una corriente filosófica, desarrollada principalmente por Don Ihde, que analiza cómo la tecnología media en nuestra experiencia del mundo. Abandona la idea de que somos sujetos aislados observando objetos, argumentando que las tecnologías co-constituyen nuestra realidad y determinan cómo percibimos y actuamos.
++ La sensación mas verdadera es cuando uno toca las cosas.
 
-+ 555 
-+ Letra E 
-+ Editar símbolos (no de biblioteca) 
-+ Seleccionar pin y presionar M para reubicar 
-+ Se debe guardar para mantener el cambio
+Y trabajo en clases! 
 
-**Para guardar mis símbolos:**
+No habré estado ahí físicamente, pero sí presente de otra manera.
 
-+ Editor de símbolos 
-+ Archivo 
-+ Nueva biblioteca 
+Buscar y definir ¡qué haremos! 
 
-Temporary → pulsadores 
+¿Qué debemos hacer? 
 
-Push buttons 
+Un oscilador, que según wikipedia un oscilador es un dispositivo o circuito electrónico capaz de convertir corriente continua en corriente alterna con una frecuencia y forma de onda específicas. Actúa como un "metrónomo" o señal de reloj, siendo fundamental para sincronizar microprocesadores, generar tonos en instrumentos musicales o portar señales de radiofrecuencia.
 
-+ No - abierto (normalmente abierto) (más común) 
-+ No - conectado 
+Modificar el oscilador que utilizamos en nuestra entrega 1. 
 
-+ Palanca 
-+ Switch 
-+ Estados
+Primera opción: Utilizar el chip 4046 
 
-![croquera](./imagenes/croquera.jpeg)
++ Es un chip de bucle bloqueado por fase (PLL)
++ Los PLL son circuitos dulces. En el uso normal, se pone una forma de onda con una frecuencia dada, y el PLL emite una onda cuadrada que se sincroniza con la entrada, pero a una frecuencia más alta. Funciona teniendo un oscilador controlado por voltaje (VCO) en el interior y accionando el VCO con una señal de voltaje que depende de la diferencia de frecuencia entre el VCO interno y la señal externa.
++ La entrada de voltaje para el VCO está en el pin 9, y la salida está en el pin 4.
++ CD4046B CMOS Micropower Phase-Locked Loop (PLL) consta de un oscilador lineal controlado por voltaje (VCO) de bajo consumo y dos comparadores de fase diferentes que tienen un amplificador común de entrada de señal y una entrada común para comparadores. Se proporciona un diodo zener de 5,2 V para la regulación de suministro si es necesario.
 
-**Comentarios sobre el capítulo en clase:**
+![4046](./imagenes/cd4046.png)
+![4046](./imagenes/4046.png)
 
-+ Un velo al mundo 
-+ Dejamos de ver el mundo 
-+ Como Instagram
 ___
 Mis comentarios y reflexiones sobre el libro *Hacia una filosofía de la fotografía*, de Vilém Flusser.
 
-**Capítulo 2: La imagen técnica**
+Capítulo 6: La distribución de la fotografía
 
-Habla sobre la diferencia entre la imagen técnica y la imagen tradicional. Las técnicas hacen referencia a una especie de ventana al mundo, pero, a diferencia de las tradicionales, son simbólicas. Relación con la caja negra, que es lo que pasa entre el fotógrafo, la cámara y el resultado, ya que pareciera que eso no interrumpe entre la imagen y el significado, cuando en realidad sí, porque la cámara y el fotógrafo deciden cómo se verá e interpretará la imagen. Aunque parezcan mostrar una realidad objetiva, siempre existe una construcción detrás.
+Habla sobre cómo las fotografías se distribuyen mediante la reproducción. La cámara produce el prototipo y hace posible la producción en serie de estereotipos impresos. El valor de la fotografía no está en el objeto físico, sino en su información y en que es reproducible. Las fotografías se convierten en un flujo constante de información y pasan a influir en los comportamientos y en las formas que tenemos para entender el mundo.
 
-Reflexión propia: Muy relacionado con la realidad de hoy, especialmente en redes sociales, donde encontramos imágenes sin saber cómo fueron hechas ni qué intenciones tienen detrás.
+Reflexión propia: Nuevamente relacionado con la realidad de hoy y las redes sociales, por lo rápido que se pueden difundir las imágenes y el impacto que pueden generar.
 
-**Capítulo 3: Los aparatos**
+Capítulo 7: La recepción de la fotografía
 
-Habla sobre la cámara como prototipo del aparato, entendiendo aparato como objeto cultural. También sobre cómo las herramientas son una prolongación de los órganos humanos y las similitudes entre ambos. Nuevamente aparece la comparación de la caja negra con la cámara, ya que el fotógrafo solo conoce la entrada y la salida, pero no logra controlar el interior de la cámara, o sea, el fotógrafo solo juega con las posibilidades que la cámara le permite. Los aparatos necesitan funcionarios y jugadores.
+Habla sobre cómo las personas reciben la fotografía y cómo muchas veces solo la ven superficialmente, pero no se detienen a analizarla en profundidad ni a cuestionar sus significados. Interpretar las imágenes es tan importante como leer textos. Casi todo el mundo tiene una cámara, pero a veces quienes saben tomar fotografías no saben necesariamente cómo analizarlas.
 
-Reflexión propia: Veo la relación con las aplicaciones de hoy, desde las cuales se transmiten imágenes, ya que estas determinan qué consumimos y también cómo las producimos.
+Reflexión propia: La poca importancia que a veces le damos a las fotografías, ya que no cuestionamos más allá de lo que vemos, quién la tomó o qué buscaba transmitir.
 
 
 
